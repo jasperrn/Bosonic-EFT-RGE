@@ -16,7 +16,7 @@ We provide the results in both FORM (.frm) format and Mathematica (.m) format.
 
 ## Citation
 
-1. G. Guedes, J. Roosmale Nepveu, _Two-loop renormalization of general bosonic effective field theories_, [arxiv:2512.xxxxx](https://arxiv.org/abs/2512.xxxxx).
+1. G. Guedes, J. Roosmale Nepveu, _Two-loop renormalization of general bosonic effective field theories_, [arxiv:2512.08827](https://arxiv.org/abs/2512.08827).
 
 ## Notation
 
